@@ -1,0 +1,3 @@
+platformplatform_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: platformplatformBundle:Default:index }
